@@ -1,0 +1,17 @@
+
+.env
+.mdvenv
+
+.vscode
+_dev
+
+__pycache__
+.mypy_cache
+
+dist
+
+.venv
+.idea
+
+.envrc
+codegen.log
